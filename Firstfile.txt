@@ -1,5 +1,7 @@
 I am learning Git
 I am learning github
+I am learning Python
 ...
 ...
 End of my learning
+Beginning of my learning
